@@ -5,7 +5,7 @@ import { styles } from './styles';
 const Navbar = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.logo}>Your Logo</Text>
+      <Text style={styles.logo}>Your Logo Here</Text>
       <View style={styles.menuDots}></View>
     </View>
 
