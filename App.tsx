@@ -9,6 +9,8 @@ import {
   View,
 } from 'react-native';
 import Navbar from './src/components/NavBar';
+import Grid from "./src/components/Grid/Grid";
+
 
 function App(): JSX.Element {
   const isDarkMode = useColorScheme() === 'dark';
@@ -24,6 +26,8 @@ function App(): JSX.Element {
         backgroundColor={backgroundStyle.backgroundColor}
       />
       <Navbar/>
+      <Grid />
+
       <ScrollView contentInsetAdjustmentBehavior="automatic" style={backgroundStyle}>
         <View style={styles.container}>
           <Text style={styles.title}>Hellö MFr!</Text>
