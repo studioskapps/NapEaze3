@@ -6,20 +6,36 @@ com.napeaze3.app-mergeDebugResources-4 C:\ReactNative\NapEaze3\android\app\build
 com.napeaze3.app-merged_res-5 C:\ReactNative\NapEaze3\android\app\build\intermediates\merged_res\debug
 com.napeaze3.app-debug-6 C:\ReactNative\NapEaze3\android\app\src\debug\res
 com.napeaze3.app-main-7 C:\ReactNative\NapEaze3\android\app\src\main\res
-com.napeaze3.app-core-1.7.0-8 C:\Users\New Dawn\.gradle\caches\transforms-3\08e1174eef2c209ea18090f1084adbcb\transformed\core-1.7.0\res
-com.napeaze3.app-jetified-lifecycle-process-2.4.0-9 C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\res
-com.napeaze3.app-jetified-tracing-1.1.0-10 C:\Users\New Dawn\.gradle\caches\transforms-3\1b23619806c7e0b1328fc362ed97b60d\transformed\jetified-tracing-1.1.0\res
-com.napeaze3.app-jetified-flipper-0.125.0-11 C:\Users\New Dawn\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\res
-com.napeaze3.app-lifecycle-viewmodel-2.3.1-12 C:\Users\New Dawn\.gradle\caches\transforms-3\2b19c1765951b702622e3fffec6a7bd2\transformed\lifecycle-viewmodel-2.3.1\res
-com.napeaze3.app-jetified-emoji2-1.0.0-13 C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\res
-com.napeaze3.app-jetified-drawee-2.6.0-14 C:\Users\New Dawn\.gradle\caches\transforms-3\30e8f89a0cfe46affab114e7ab660cf3\transformed\jetified-drawee-2.6.0\res
-com.napeaze3.app-lifecycle-runtime-2.4.0-15 C:\Users\New Dawn\.gradle\caches\transforms-3\384373dfdc1c875b0658779e880f6a49\transformed\lifecycle-runtime-2.4.0\res
-com.napeaze3.app-jetified-savedstate-1.1.0-16 C:\Users\New Dawn\.gradle\caches\transforms-3\85e4bbe9c5d78990c6ba607fb1c9ab7a\transformed\jetified-savedstate-1.1.0\res
-com.napeaze3.app-jetified-autofill-1.1.0-17 C:\Users\New Dawn\.gradle\caches\transforms-3\97aa19878e2d0d07709ad1e6d84d3065\transformed\jetified-autofill-1.1.0\res
-com.napeaze3.app-appcompat-1.4.1-18 C:\Users\New Dawn\.gradle\caches\transforms-3\be9a285d7d94d789380b4b7ef5365ae2\transformed\appcompat-1.4.1\res
-com.napeaze3.app-jetified-appcompat-resources-1.4.1-19 C:\Users\New Dawn\.gradle\caches\transforms-3\c10bb5e6b3f5dcf7b6548984476ee588\transformed\jetified-appcompat-resources-1.4.1\res
-com.napeaze3.app-fragment-1.3.6-20 C:\Users\New Dawn\.gradle\caches\transforms-3\c2c5da49c1fc84b9914f31b8318728d4\transformed\fragment-1.3.6\res
-com.napeaze3.app-jetified-emoji2-views-helper-1.0.0-21 C:\Users\New Dawn\.gradle\caches\transforms-3\df689ec0374512285cc4a71f25631ba0\transformed\jetified-emoji2-views-helper-1.0.0\res
-com.napeaze3.app-jetified-annotation-experimental-1.1.0-22 C:\Users\New Dawn\.gradle\caches\transforms-3\e0a1603de116f315cea80cdc8604a239\transformed\jetified-annotation-experimental-1.1.0\res
-com.napeaze3.app-jetified-react-android-0.71.6-debug-23 C:\Users\New Dawn\.gradle\caches\transforms-3\e130ab6804e166a1486f733ffc21e975\transformed\jetified-react-android-0.71.6-debug\res
-com.napeaze3.app-jetified-startup-runtime-1.0.0-24 C:\Users\New Dawn\.gradle\caches\transforms-3\ee52d1298a974e8c315372d93d5b5cab\transformed\jetified-startup-runtime-1.0.0\res
+com.napeaze3.app-packaged_res-8 C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\packaged_res\debug
+com.napeaze3.app-packaged_res-9 C:\ReactNative\NapEaze3\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug
+com.napeaze3.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-10 C:\Users\New Dawn\.gradle\caches\transforms-3\0042d7f479afa2a0b85ba08eb87f1be5\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.napeaze3.app-jetified-savedstate-1.2.1-11 C:\Users\New Dawn\.gradle\caches\transforms-3\0b3199f34616581dae34d459d9ec7ffb\transformed\jetified-savedstate-1.2.1\res
+com.napeaze3.app-lifecycle-viewmodel-2.6.1-12 C:\Users\New Dawn\.gradle\caches\transforms-3\1a6afd2af49d1d4018a1bb8c2dd91d05\transformed\lifecycle-viewmodel-2.6.1\res
+com.napeaze3.app-jetified-tracing-1.1.0-13 C:\Users\New Dawn\.gradle\caches\transforms-3\1b23619806c7e0b1328fc362ed97b60d\transformed\jetified-tracing-1.1.0\res
+com.napeaze3.app-jetified-profileinstaller-1.3.0-14 C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\res
+com.napeaze3.app-lifecycle-runtime-2.6.1-15 C:\Users\New Dawn\.gradle\caches\transforms-3\1df0410b1d49b2f73aca72d3563bc613\transformed\lifecycle-runtime-2.6.1\res
+com.napeaze3.app-jetified-flipper-0.125.0-16 C:\Users\New Dawn\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\res
+com.napeaze3.app-jetified-emoji2-1.0.0-17 C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\res
+com.napeaze3.app-jetified-drawee-2.6.0-18 C:\Users\New Dawn\.gradle\caches\transforms-3\30e8f89a0cfe46affab114e7ab660cf3\transformed\jetified-drawee-2.6.0\res
+com.napeaze3.app-jetified-startup-runtime-1.1.1-19 C:\Users\New Dawn\.gradle\caches\transforms-3\4193e68b2530c9219cf56a2107870dcb\transformed\jetified-startup-runtime-1.1.1\res
+com.napeaze3.app-media-1.6.0-20 C:\Users\New Dawn\.gradle\caches\transforms-3\52961eb56f74acaa4e9b34efda427a30\transformed\media-1.6.0\res
+com.napeaze3.app-core-runtime-2.2.0-21 C:\Users\New Dawn\.gradle\caches\transforms-3\6d2d7f79d7e19c17e235965f3f44d63a\transformed\core-runtime-2.2.0\res
+com.napeaze3.app-jetified-annotation-experimental-1.3.0-22 C:\Users\New Dawn\.gradle\caches\transforms-3\6f2da7ebc1e93be8b1f0c712f9ee32aa\transformed\jetified-annotation-experimental-1.3.0\res
+com.napeaze3.app-lifecycle-livedata-2.6.1-23 C:\Users\New Dawn\.gradle\caches\transforms-3\73b5d8dcf24f5fccea2b301d77e033bc\transformed\lifecycle-livedata-2.6.1\res
+com.napeaze3.app-jetified-coil-base-1.4.0-24 C:\Users\New Dawn\.gradle\caches\transforms-3\75c840966ffccf4f77d979e83cd189fc\transformed\jetified-coil-base-1.4.0\res
+com.napeaze3.app-localbroadcastmanager-1.1.0-25 C:\Users\New Dawn\.gradle\caches\transforms-3\7cbdf99c2c52689e2f30af0d50d40a2e\transformed\localbroadcastmanager-1.1.0\res
+com.napeaze3.app-jetified-lifecycle-process-2.6.1-26 C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\res
+com.napeaze3.app-jetified-autofill-1.1.0-27 C:\Users\New Dawn\.gradle\caches\transforms-3\97aa19878e2d0d07709ad1e6d84d3065\transformed\jetified-autofill-1.1.0\res
+com.napeaze3.app-jetified-kotlinaudio-v2.0.0-rc6-28 C:\Users\New Dawn\.gradle\caches\transforms-3\a4d59c1a19b6240c6fc778dea616a104\transformed\jetified-kotlinaudio-v2.0.0-rc6\res
+com.napeaze3.app-recyclerview-1.2.1-29 C:\Users\New Dawn\.gradle\caches\transforms-3\a9db1f32a02a63945591c1e6789a8d3c\transformed\recyclerview-1.2.1\res
+com.napeaze3.app-appcompat-1.4.1-30 C:\Users\New Dawn\.gradle\caches\transforms-3\be9a285d7d94d789380b4b7ef5365ae2\transformed\appcompat-1.4.1\res
+com.napeaze3.app-jetified-appcompat-resources-1.4.1-31 C:\Users\New Dawn\.gradle\caches\transforms-3\c10bb5e6b3f5dcf7b6548984476ee588\transformed\jetified-appcompat-resources-1.4.1\res
+com.napeaze3.app-fragment-1.3.6-32 C:\Users\New Dawn\.gradle\caches\transforms-3\c2c5da49c1fc84b9914f31b8318728d4\transformed\fragment-1.3.6\res
+com.napeaze3.app-lifecycle-livedata-core-2.6.1-33 C:\Users\New Dawn\.gradle\caches\transforms-3\cc7b0e246e9ab66310923a2291aff5e1\transformed\lifecycle-livedata-core-2.6.1\res
+com.napeaze3.app-jetified-extension-mediasession-2.18.1-34 C:\Users\New Dawn\.gradle\caches\transforms-3\db0e19a31f83f7b9cb385b5ff749e9db\transformed\jetified-extension-mediasession-2.18.1\res
+com.napeaze3.app-jetified-emoji2-views-helper-1.0.0-35 C:\Users\New Dawn\.gradle\caches\transforms-3\df689ec0374512285cc4a71f25631ba0\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.napeaze3.app-jetified-react-android-0.71.6-debug-36 C:\Users\New Dawn\.gradle\caches\transforms-3\e130ab6804e166a1486f733ffc21e975\transformed\jetified-react-android-0.71.6-debug\res
+com.napeaze3.app-core-1.9.0-37 C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\res
+com.napeaze3.app-jetified-exoplayer-core-2.18.1-38 C:\Users\New Dawn\.gradle\caches\transforms-3\f02486aae2dc1f94b7ab50f6915d1f9c\transformed\jetified-exoplayer-core-2.18.1\res
+com.napeaze3.app-jetified-core-ktx-1.9.0-39 C:\Users\New Dawn\.gradle\caches\transforms-3\f75af972992ead4073a9ab857c66824e\transformed\jetified-core-ktx-1.9.0\res
+com.napeaze3.app-jetified-exoplayer-ui-2.18.1-40 C:\Users\New Dawn\.gradle\caches\transforms-3\fc601234d9d3eee30be45c24521e357e\transformed\jetified-exoplayer-ui-2.18.1\res

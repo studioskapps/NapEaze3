@@ -8,6 +8,9 @@ MERGED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\d3cca00246c663d3c66c0792858497b5\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\d583b133a68ceecad4ecdddb740e6639\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-community_slider] C:\ReactNative\NapEaze3\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-26:12
+MERGED from [:react-native-vector-icons] C:\ReactNative\NapEaze3\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-android:0.71.6] C:\Users\New Dawn\.gradle\caches\transforms-3\e130ab6804e166a1486f733ffc21e975\transformed\jetified-react-android-0.71.6-debug\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\091aa78edfb1f2d80073a0612085f398\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.react:hermes-android:0.71.6] C:\Users\New Dawn\.gradle\caches\transforms-3\176199b1ccd52fcc577c18b9a3a5a18e\transformed\jetified-hermes-android-0.71.6-debug\AndroidManifest.xml:2:1-9:12
@@ -27,39 +30,66 @@ MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\New Dawn\.gr
 MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\40747310e933a63c942bb289344c9519\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e719d0f842c50945933d9ad949cfe736\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1f1efa8ba876ad719b65ea6db8106154\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.doublesymmetry:kotlinaudio:v2.0.0-rc6] C:\Users\New Dawn\.gradle\caches\transforms-3\a4d59c1a19b6240c6fc778dea616a104\transformed\jetified-kotlinaudio-v2.0.0-rc6\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.test:rules:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\cea9015702c4aa890892ce4b125cb81c\transformed\rules-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.test.services:storage:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\fcfc74a03209bf61974b255f14b81ef9\transformed\jetified-storage-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\New Dawn\.gradle\caches\transforms-3\be9a285d7d94d789380b4b7ef5365ae2\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\a022374c772579687e4a912372d249a2\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\8b51d53ae433a4bca455917f910c94c5\transformed\jetified-coil-1.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\75c840966ffccf4f77d979e83cd189fc\transformed\jetified-coil-base-1.4.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\New Dawn\.gradle\caches\transforms-3\c10bb5e6b3f5dcf7b6548984476ee588\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\97aa19878e2d0d07709ad1e6d84d3065\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\New Dawn\.gradle\caches\transforms-3\c2c5da49c1fc84b9914f31b8318728d4\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.2.4] C:\Users\New Dawn\.gradle\caches\transforms-3\205fc71e7bfa2bdf16b08bd4fea3fce7\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\df689ec0374512285cc4a71f25631ba0\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\ee52d1298a974e8c315372d93d5b5cab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\695dd62e9acea732cc0dbb0c36d62612\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\New Dawn\.gradle\caches\transforms-3\0b3199f34616581dae34d459d9ec7ffb\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\73b5d8dcf24f5fccea2b301d77e033bc\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\cc7b0e246e9ab66310923a2291aff5e1\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\1a6afd2af49d1d4018a1bb8c2dd91d05\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\0042d7f479afa2a0b85ba08eb87f1be5\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\f75af972992ead4073a9ab857c66824e\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\66d8fd6a87c1cb24b88597f2714c06ac\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\44bba98a37763cf00efc76fddb8a4592\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6d61bada2dadfadb85d8f85450b08fa8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\db0e19a31f83f7b9cb385b5ff749e9db\transformed\jetified-extension-mediasession-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\79ef6e06d172a42dc7b0d174efda38c5\transformed\jetified-exoplayer-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\fc601234d9d3eee30be45c24521e357e\transformed\jetified-exoplayer-ui-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\52961eb56f74acaa4e9b34efda427a30\transformed\media-1.6.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\9508305e9bb615b1c642c3025f09fcf7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\New Dawn\.gradle\caches\transforms-3\a9db1f32a02a63945591c1e6789a8d3c\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\b7768745132d401d5f68ea8f173b9765\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\c641ae855b4bb56478d3165c25cf4abe\transformed\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\7f075a3337b8a74356adc7fed39a0c79\transformed\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\a0de25e6cc9db410522266d05e9d524b\transformed\jetified-exoplayer-rtsp-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\362f8bc98babafbeddc97074df562695\transformed\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\f02486aae2dc1f94b7ab50f6915d1f9c\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\1df0410b1d49b2f73aca72d3563bc613\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\New Dawn\.gradle\caches\transforms-3\4193e68b2530c9219cf56a2107870dcb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1b23619806c7e0b1328fc362ed97b60d\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\b3ff142517a0a29a18e46a4ee2ec40e9\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\c2a2993c53dd9ffafec57c69c42c4d49\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\44bba98a37763cf00efc76fddb8a4592\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\986171b3670fe1d6c18fb4320cd44d05\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\7cbdf99c2c52689e2f30af0d50d40a2e\transformed\localbroadcastmanager-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\7beb639fcc3269499a2075501baa3ff3\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\66d8fd6a87c1cb24b88597f2714c06ac\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6d61bada2dadfadb85d8f85450b08fa8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\9508305e9bb615b1c642c3025f09fcf7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\695dd62e9acea732cc0dbb0c36d62612\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\b7768745132d401d5f68ea8f173b9765\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.7.0] C:\Users\New Dawn\.gradle\caches\transforms-3\08e1174eef2c209ea18090f1084adbcb\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\4544e5ec7067da5a4ff2cb3a2c9d4103\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\New Dawn\.gradle\caches\transforms-3\13b7b5f530795ed78edde7d3eb80416f\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\85e4bbe9c5d78990c6ba607fb1c9ab7a\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\New Dawn\.gradle\caches\transforms-3\2b19c1765951b702622e3fffec6a7bd2\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\New Dawn\.gradle\caches\transforms-3\7de4cb111fcc2bef0540bb573df92db9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e7e59a8f50fa2e5de9e9f24336066e13\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\New Dawn\.gradle\caches\transforms-3\d4dd93e17aad6fa0bdce406f4f0d4f40\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\384373dfdc1c875b0658779e880f6a49\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\bfdfefe9d16c41e09acadb898b32b219\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\be1ce723316aa554de64b9a222cac1c0\transformed\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\538eab73730cc07e77c1a6e0960b2798\transformed\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\d959f4b336a8ee4841b17907738076df\transformed\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\c018deec9a36f69fea3c0029acb61e07\transformed\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\2fa437ccb102ae6d9c20b825b62d18b5\transformed\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6d2d7f79d7e19c17e235965f3f44d63a\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\New Dawn\.gradle\caches\transforms-3\d082d7e7281475c075541e03651bd77d\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\26da006215905a80c9bc1f50fa88212e\transformed\monitor-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\836b5c51d03b446648d5e9da403d60f4\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e0a1603de116f315cea80cdc8604a239\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\New Dawn\.gradle\caches\transforms-3\a0d3bd75c465c114f1da4a06860f8ba9\transformed\jetified-timber-5.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6f2da7ebc1e93be8b1f0c712f9ee32aa\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:2:1-13:12
 INJECTED from C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:2:1-13:12
 INJECTED from C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:2:1-13:12
@@ -89,22 +119,30 @@ application
 ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-24:19
 MERGED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-24:19
 MERGED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-24:19
+MERGED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-24:19
 MERGED from [com.facebook.react:react-android:0.71.6] C:\Users\New Dawn\.gradle\caches\transforms-3\e130ab6804e166a1486f733ffc21e975\transformed\jetified-react-android-0.71.6-debug\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-android:0.71.6] C:\Users\New Dawn\.gradle\caches\transforms-3\e130ab6804e166a1486f733ffc21e975\transformed\jetified-react-android-0.71.6-debug\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.4] C:\Users\New Dawn\.gradle\caches\transforms-3\d9d4a04e8da57caa836ea6ca264f4e9a\transformed\jetified-soloader-0.10.4\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.4] C:\Users\New Dawn\.gradle\caches\transforms-3\d9d4a04e8da57caa836ea6ca264f4e9a\transformed\jetified-soloader-0.10.4\AndroidManifest.xml:11:5-20
+MERGED from [androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:30:5-20
+MERGED from [androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:30:5-20
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\ee52d1298a974e8c315372d93d5b5cab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\ee52d1298a974e8c315372d93d5b5cab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.core:core:1.7.0] C:\Users\New Dawn\.gradle\caches\transforms-3\08e1174eef2c209ea18090f1084adbcb\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.7.0] C:\Users\New Dawn\.gradle\caches\transforms-3\08e1174eef2c209ea18090f1084adbcb\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\New Dawn\.gradle\caches\transforms-3\4193e68b2530c9219cf56a2107870dcb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\New Dawn\.gradle\caches\transforms-3\4193e68b2530c9219cf56a2107870dcb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\New Dawn\.gradle\caches\transforms-3\7de4cb111fcc2bef0540bb573df92db9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\New Dawn\.gradle\caches\transforms-3\7de4cb111fcc2bef0540bb573df92db9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\New Dawn\.gradle\caches\transforms-3\a0d3bd75c465c114f1da4a06860f8ba9\transformed\jetified-timber-5.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\New Dawn\.gradle\caches\transforms-3\a0d3bd75c465c114f1da4a06860f8ba9\transformed\jetified-timber-5.0.1\AndroidManifest.xml:7:5-20
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.7.0] C:\Users\New Dawn\.gradle\caches\transforms-3\08e1174eef2c209ea18090f1084adbcb\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:label
 		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:7:7-39
 		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:7:7-39
@@ -163,6 +201,12 @@ MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\New Da
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\d583b133a68ceecad4ecdddb740e6639\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_slider] C:\ReactNative\NapEaze3\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_slider] C:\ReactNative\NapEaze3\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\ReactNative\NapEaze3\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\ReactNative\NapEaze3\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.6] C:\Users\New Dawn\.gradle\caches\transforms-3\e130ab6804e166a1486f733ffc21e975\transformed\jetified-react-android-0.71.6-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.6] C:\Users\New Dawn\.gradle\caches\transforms-3\e130ab6804e166a1486f733ffc21e975\transformed\jetified-react-android-0.71.6-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\091aa78edfb1f2d80073a0612085f398\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
@@ -201,10 +245,22 @@ MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\New Dawn\
 MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e719d0f842c50945933d9ad949cfe736\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1f1efa8ba876ad719b65ea6db8106154\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1f1efa8ba876ad719b65ea6db8106154\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.doublesymmetry:kotlinaudio:v2.0.0-rc6] C:\Users\New Dawn\.gradle\caches\transforms-3\a4d59c1a19b6240c6fc778dea616a104\transformed\jetified-kotlinaudio-v2.0.0-rc6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.doublesymmetry:kotlinaudio:v2.0.0-rc6] C:\Users\New Dawn\.gradle\caches\transforms-3\a4d59c1a19b6240c6fc778dea616a104\transformed\jetified-kotlinaudio-v2.0.0-rc6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.test:rules:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\cea9015702c4aa890892ce4b125cb81c\transformed\rules-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\cea9015702c4aa890892ce4b125cb81c\transformed\rules-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\fcfc74a03209bf61974b255f14b81ef9\transformed\jetified-storage-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\fcfc74a03209bf61974b255f14b81ef9\transformed\jetified-storage-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\New Dawn\.gradle\caches\transforms-3\be9a285d7d94d789380b4b7ef5365ae2\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\New Dawn\.gradle\caches\transforms-3\be9a285d7d94d789380b4b7ef5365ae2\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\a022374c772579687e4a912372d249a2\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\a022374c772579687e4a912372d249a2\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\8b51d53ae433a4bca455917f910c94c5\transformed\jetified-coil-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\8b51d53ae433a4bca455917f910c94c5\transformed\jetified-coil-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\75c840966ffccf4f77d979e83cd189fc\transformed\jetified-coil-base-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\75c840966ffccf4f77d979e83cd189fc\transformed\jetified-coil-base-1.4.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\New Dawn\.gradle\caches\transforms-3\c10bb5e6b3f5dcf7b6548984476ee588\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\New Dawn\.gradle\caches\transforms-3\c10bb5e6b3f5dcf7b6548984476ee588\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\97aa19878e2d0d07709ad1e6d84d3065\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -217,56 +273,98 @@ MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\New Dawn\.gradl
 MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\df689ec0374512285cc4a71f25631ba0\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\ee52d1298a974e8c315372d93d5b5cab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\ee52d1298a974e8c315372d93d5b5cab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\695dd62e9acea732cc0dbb0c36d62612\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\695dd62e9acea732cc0dbb0c36d62612\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\New Dawn\.gradle\caches\transforms-3\0b3199f34616581dae34d459d9ec7ffb\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\New Dawn\.gradle\caches\transforms-3\0b3199f34616581dae34d459d9ec7ffb\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\73b5d8dcf24f5fccea2b301d77e033bc\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\73b5d8dcf24f5fccea2b301d77e033bc\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\cc7b0e246e9ab66310923a2291aff5e1\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\cc7b0e246e9ab66310923a2291aff5e1\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\1a6afd2af49d1d4018a1bb8c2dd91d05\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\1a6afd2af49d1d4018a1bb8c2dd91d05\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\0042d7f479afa2a0b85ba08eb87f1be5\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\0042d7f479afa2a0b85ba08eb87f1be5\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\f75af972992ead4073a9ab857c66824e\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\f75af972992ead4073a9ab857c66824e\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\66d8fd6a87c1cb24b88597f2714c06ac\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\66d8fd6a87c1cb24b88597f2714c06ac\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\44bba98a37763cf00efc76fddb8a4592\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\44bba98a37763cf00efc76fddb8a4592\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6d61bada2dadfadb85d8f85450b08fa8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6d61bada2dadfadb85d8f85450b08fa8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\db0e19a31f83f7b9cb385b5ff749e9db\transformed\jetified-extension-mediasession-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\db0e19a31f83f7b9cb385b5ff749e9db\transformed\jetified-extension-mediasession-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\79ef6e06d172a42dc7b0d174efda38c5\transformed\jetified-exoplayer-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\79ef6e06d172a42dc7b0d174efda38c5\transformed\jetified-exoplayer-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\fc601234d9d3eee30be45c24521e357e\transformed\jetified-exoplayer-ui-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\fc601234d9d3eee30be45c24521e357e\transformed\jetified-exoplayer-ui-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\52961eb56f74acaa4e9b34efda427a30\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\52961eb56f74acaa4e9b34efda427a30\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\9508305e9bb615b1c642c3025f09fcf7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\9508305e9bb615b1c642c3025f09fcf7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\New Dawn\.gradle\caches\transforms-3\a9db1f32a02a63945591c1e6789a8d3c\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\New Dawn\.gradle\caches\transforms-3\a9db1f32a02a63945591c1e6789a8d3c\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\b7768745132d401d5f68ea8f173b9765\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\b7768745132d401d5f68ea8f173b9765\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\c641ae855b4bb56478d3165c25cf4abe\transformed\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\c641ae855b4bb56478d3165c25cf4abe\transformed\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\7f075a3337b8a74356adc7fed39a0c79\transformed\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\7f075a3337b8a74356adc7fed39a0c79\transformed\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\a0de25e6cc9db410522266d05e9d524b\transformed\jetified-exoplayer-rtsp-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\a0de25e6cc9db410522266d05e9d524b\transformed\jetified-exoplayer-rtsp-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\362f8bc98babafbeddc97074df562695\transformed\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\362f8bc98babafbeddc97074df562695\transformed\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\f02486aae2dc1f94b7ab50f6915d1f9c\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\f02486aae2dc1f94b7ab50f6915d1f9c\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\1df0410b1d49b2f73aca72d3563bc613\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\1df0410b1d49b2f73aca72d3563bc613\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\New Dawn\.gradle\caches\transforms-3\4193e68b2530c9219cf56a2107870dcb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\New Dawn\.gradle\caches\transforms-3\4193e68b2530c9219cf56a2107870dcb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1b23619806c7e0b1328fc362ed97b60d\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1b23619806c7e0b1328fc362ed97b60d\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\b3ff142517a0a29a18e46a4ee2ec40e9\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\b3ff142517a0a29a18e46a4ee2ec40e9\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\c2a2993c53dd9ffafec57c69c42c4d49\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\c2a2993c53dd9ffafec57c69c42c4d49\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\44bba98a37763cf00efc76fddb8a4592\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\44bba98a37763cf00efc76fddb8a4592\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\986171b3670fe1d6c18fb4320cd44d05\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\986171b3670fe1d6c18fb4320cd44d05\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\7cbdf99c2c52689e2f30af0d50d40a2e\transformed\localbroadcastmanager-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\7cbdf99c2c52689e2f30af0d50d40a2e\transformed\localbroadcastmanager-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\7beb639fcc3269499a2075501baa3ff3\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\7beb639fcc3269499a2075501baa3ff3\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\66d8fd6a87c1cb24b88597f2714c06ac\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\66d8fd6a87c1cb24b88597f2714c06ac\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6d61bada2dadfadb85d8f85450b08fa8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6d61bada2dadfadb85d8f85450b08fa8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\9508305e9bb615b1c642c3025f09fcf7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\9508305e9bb615b1c642c3025f09fcf7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\695dd62e9acea732cc0dbb0c36d62612\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\695dd62e9acea732cc0dbb0c36d62612\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\b7768745132d401d5f68ea8f173b9765\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\b7768745132d401d5f68ea8f173b9765\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.7.0] C:\Users\New Dawn\.gradle\caches\transforms-3\08e1174eef2c209ea18090f1084adbcb\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.7.0] C:\Users\New Dawn\.gradle\caches\transforms-3\08e1174eef2c209ea18090f1084adbcb\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\4544e5ec7067da5a4ff2cb3a2c9d4103\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\4544e5ec7067da5a4ff2cb3a2c9d4103\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\New Dawn\.gradle\caches\transforms-3\13b7b5f530795ed78edde7d3eb80416f\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\New Dawn\.gradle\caches\transforms-3\13b7b5f530795ed78edde7d3eb80416f\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\85e4bbe9c5d78990c6ba607fb1c9ab7a\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\85e4bbe9c5d78990c6ba607fb1c9ab7a\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\New Dawn\.gradle\caches\transforms-3\2b19c1765951b702622e3fffec6a7bd2\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\New Dawn\.gradle\caches\transforms-3\2b19c1765951b702622e3fffec6a7bd2\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\New Dawn\.gradle\caches\transforms-3\7de4cb111fcc2bef0540bb573df92db9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\New Dawn\.gradle\caches\transforms-3\7de4cb111fcc2bef0540bb573df92db9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e7e59a8f50fa2e5de9e9f24336066e13\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e7e59a8f50fa2e5de9e9f24336066e13\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\New Dawn\.gradle\caches\transforms-3\d4dd93e17aad6fa0bdce406f4f0d4f40\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\New Dawn\.gradle\caches\transforms-3\d4dd93e17aad6fa0bdce406f4f0d4f40\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\384373dfdc1c875b0658779e880f6a49\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\384373dfdc1c875b0658779e880f6a49\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\bfdfefe9d16c41e09acadb898b32b219\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\bfdfefe9d16c41e09acadb898b32b219\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\be1ce723316aa554de64b9a222cac1c0\transformed\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\be1ce723316aa554de64b9a222cac1c0\transformed\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\538eab73730cc07e77c1a6e0960b2798\transformed\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\538eab73730cc07e77c1a6e0960b2798\transformed\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\d959f4b336a8ee4841b17907738076df\transformed\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\d959f4b336a8ee4841b17907738076df\transformed\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\c018deec9a36f69fea3c0029acb61e07\transformed\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\c018deec9a36f69fea3c0029acb61e07\transformed\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\2fa437ccb102ae6d9c20b825b62d18b5\transformed\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\2fa437ccb102ae6d9c20b825b62d18b5\transformed\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6d2d7f79d7e19c17e235965f3f44d63a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6d2d7f79d7e19c17e235965f3f44d63a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\New Dawn\.gradle\caches\transforms-3\d082d7e7281475c075541e03651bd77d\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\New Dawn\.gradle\caches\transforms-3\d082d7e7281475c075541e03651bd77d\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\26da006215905a80c9bc1f50fa88212e\transformed\monitor-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\26da006215905a80c9bc1f50fa88212e\transformed\monitor-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\836b5c51d03b446648d5e9da403d60f4\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\New Dawn\.gradle\caches\transforms-3\836b5c51d03b446648d5e9da403d60f4\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e0a1603de116f315cea80cdc8604a239\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e0a1603de116f315cea80cdc8604a239\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\New Dawn\.gradle\caches\transforms-3\a0d3bd75c465c114f1da4a06860f8ba9\transformed\jetified-timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\New Dawn\.gradle\caches\transforms-3\a0d3bd75c465c114f1da4a06860f8ba9\transformed\jetified-timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6f2da7ebc1e93be8b1f0c712f9ee32aa\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6f2da7ebc1e93be8b1f0c712f9ee32aa\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 INJECTED from C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml
 INJECTED from C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
@@ -289,12 +387,52 @@ uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-74
+service#com.doublesymmetry.trackplayer.service.MusicService
+ADDED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:19
+	android:enabled
+		ADDED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-35
+	android:exported
+		ADDED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-36
+	android:foregroundServiceType
+		ADDED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-58
+	android:name
+		ADDED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-79
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-74
+queries
+ADDED from [androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:24:5-28:15
+package#androidx.test.orchestrator
+ADDED from [androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:25:9-62
+	android:name
+		ADDED from [androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:25:18-59
+package#androidx.test.services
+ADDED from [androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:26:9-58
+	android:name
+		ADDED from [androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:26:18-55
+package#com.google.android.apps.common.testing.services
+ADDED from [androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:27:9-83
+	android:name
+		ADDED from [androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:27:18-80
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\ee52d1298a974e8c315372d93d5b5cab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\ee52d1298a974e8c315372d93d5b5cab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\New Dawn\.gradle\caches\transforms-3\4193e68b2530c9219cf56a2107870dcb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\New Dawn\.gradle\caches\transforms-3\4193e68b2530c9219cf56a2107870dcb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
 	tools:node
 		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
 	android:authorities
@@ -309,9 +447,77 @@ ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\trans
 		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
 	android:name
 		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\f02486aae2dc1f94b7ab50f6915d1f9c\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\2fa437ccb102ae6d9c20b825b62d18b5\transformed\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\2fa437ccb102ae6d9c20b825b62d18b5\transformed\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\f02486aae2dc1f94b7ab50f6915d1f9c\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:22-76
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.napeaze3.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.napeaze3.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

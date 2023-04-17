@@ -1,52 +1,24 @@
 import React from 'react';
-import {
-  SafeAreaView,
-  ScrollView,
-  StatusBar,
-  StyleSheet,
-  Text,
-  useColorScheme,
-  View,
-} from 'react-native';
-import Navbar from './src/components/NavBar';
+import { View, StyleSheet, StatusBar } from 'react-native';
+// import Navbar from './src/components/NavBar';
+// import ScrollViewExample from './src/components/ScrollList/index';
+import MusicPlayer from './src/components/MusicPlayer';
 
 
-function App(): JSX.Element {
-  const isDarkMode = useColorScheme() === 'dark';
+const App = () =>{
+    return (
+  <View style={styles.container}>
+    <StatusBar barStyle="light-content"/>
 
-  const backgroundStyle = {
-    backgroundColor: isDarkMode ? '#222' : '#fff',
-  };
+    <MusicPlayer/>
 
-  return (
-    <SafeAreaView style={backgroundStyle}>
-      <StatusBar
-        barStyle={isDarkMode ? 'light-content' : 'dark-content'}
-        backgroundColor={backgroundStyle.backgroundColor}
-      />
-      <Navbar/>
-
-      <ScrollView contentInsetAdjustmentBehavior="automatic" style={backgroundStyle}>
-        <View style={styles.container}>
-          <Text style={styles.title}>Hellö MFr!</Text>
-        </View>
-      </ScrollView>
-    </SafeAreaView>
+</View>
   );
-}
+};
+export default App;
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-    padding: 20,
-    backgroundColor: '#0F1622'
   },
-  title: {
-    fontSize: 24,
-    fontWeight: 'bold',
-  },
-});
-
-export default App;
+})
