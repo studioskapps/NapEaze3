@@ -33,7 +33,6 @@ const MusicPlayer = () => {
                         <Text style={styles.progressLabelTxt}>3:57</Text>
                     </View>
                 </View>
-                
                 <View style={styles.playerContainer}>
                 <View style={styles.playerControls}>
                 <TouchableOpacity onPress={() => { }}>
@@ -86,6 +85,7 @@ const styles = StyleSheet.create({
         borderTopWidth: 1,
         width: width,
         alignItems: 'center',
+        paddingVertical: 15,
         position: 'absolute',
         bottom: 0,
     },
@@ -140,18 +140,18 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         color: '#ddd',
     },
-    playerContainer: {
-        flexDirection: 'row',
-        justifyContent: 'center',
-        alignItems: 'center',
-        width: '100%',
-        backgroundColor: '#a7a7a7',
-        bottom: 0,
-      },
-      playerControls: {
-        flexDirection: 'row',
-        width: '60%',
-        justifyContent: 'space-between',
-      },
-      
+playerContainer: {
+  flexDirection: 'row',
+  justifyContent: 'center',
+  alignItems: 'center',
+  width: '100%',
+  backgroundColor: '#a7a7a7',
+  bottom: 0,
+},
+playerControls: {
+  flexDirection: 'row',
+  width: '60%',
+  justifyContent: 'space-between',
+},
+
 });
