@@ -9,6 +9,7 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\New D
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\d583b133a68ceecad4ecdddb740e6639\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:8:1-18:12
 MERGED from [:react-native-community_slider] C:\ReactNative\NapEaze3\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-linear-gradient] C:\ReactNative\NapEaze3\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-26:12
 MERGED from [:react-native-vector-icons] C:\ReactNative\NapEaze3\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-android:0.71.6] C:\Users\New Dawn\.gradle\caches\transforms-3\e130ab6804e166a1486f733ffc21e975\transformed\jetified-react-android-0.71.6-debug\AndroidManifest.xml:2:1-11:12
@@ -203,6 +204,8 @@ MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\New Dawn\.gradle\cac
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [:react-native-community_slider] C:\ReactNative\NapEaze3\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_slider] C:\ReactNative\NapEaze3\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] C:\ReactNative\NapEaze3\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] C:\ReactNative\NapEaze3\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-vector-icons] C:\ReactNative\NapEaze3\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
