@@ -9,20 +9,21 @@ import LinearGradient from 'react-native-linear-gradient';
 
 const { width, height } = Dimensions.get('window');
 const MusicPlayer = () => {
-
-    const renderSongs = ({ index, item }) => {
-        return (
-            <View style={{
-                width: width,
-                justifyContent: 'center',
-                alignItems: 'center',
-            }}>
-                <View style={styles.artworkWrapper}>
-                    <Image source={item.image} style={styles.artworkImage} />
-                </View>
-            </View>
-        )
+   const handleAlbumPress = () => {
+        // Here you can implement the logic to open the song list
+        console.log('Album pressed');
     }
+    const renderSongs = ({ item }) => {
+        return (
+            <TouchableOpacity onPress={handleAlbumPress}>
+            <View style={styles.albumContainer}>
+                <Image source={item.image} style={styles.albumCover} />
+                <Text style={styles.albumTitle}>{item.title}</Text>
+                <Text style={styles.albumItemCount}>{`${item.itemcount} songs`}</Text>
+            </View>
+        </TouchableOpacity>
+        );
+    };
     return (
         <SafeAreaView style={styles.container}>
             <View style={styles.mainContainer}>
@@ -42,37 +43,20 @@ const MusicPlayer = () => {
                 </View>
 
 
-                <FlatList style={{marginBottom:0}}
-                    data={songs}
-                    renderItem={renderSongs}
-                    keyExtractor={(item) => item.id}
-                    horizontal
-                    pagingEnabled
-                    showsVerticalScrollIndicator={false}
-                    scrollEventThrottle={64}
-                ></FlatList>
+                <View style={styles.container}>
+                    <FlatList
+                        data={songs}
+                        renderItem={renderSongs}
+                        keyExtractor={(item) => item.id}
+                        horizontal
+                        pagingEnabled
+                        snapToInterval={width}
+                        decelerationRate={64}
+                        contentContainerStyle={styles.flatListContentContainer}
+                    />
 
-
-                <View style={styles.infotextContainer}>
-                    <Text style={styles.soundTitle}>SONG TITLE</Text>
-                    <Text style={styles.soundCategories}>Sound Category</Text>
                 </View>
 
-                {/* <View>
-                    <Slider style={styles.progressContainer}
-                        value={10}
-                        minimumValue={0}
-                        maximumValue={100}
-                        thumbTintColor='#ffffff'
-                        minimumTrackTintColor='#FFD369'
-                        maximumTrackTintColor='#FFF'
-                        onSlidingComplete={() => { }}
-                    />
-                    <View style={styles.progressLabelContainer}>
-                        <Text style={styles.progressLabelTxt}>0:00</Text>
-                        <Text style={styles.progressLabelTxt}>3:57</Text>
-                    </View>
-                </View> */}
                 <View style={styles.playerContainer}>
                     <LinearGradient
                         colors={['#334173', '#5B144C']}
@@ -84,17 +68,24 @@ const MusicPlayer = () => {
                         <TouchableOpacity onPress={() => { }}>
                             <Image source={require('../../assets/img/button_play.png')} style={{ width: 80, height: 80 }} />
                         </TouchableOpacity>
+                        <Text style={styles.currentText}>Now Playing:{'\n'}Waterfall{'\n'}02:46</Text>
+                        <View style={styles.currentContainer}>
+                            <Image
+                                style={styles.currentImg}
+                                source={require('../../assets/artwork/nature.png')}
+                            />
+                        </View>
                     </View>
                 </View>
             </View>
 
             <View style={styles.bottomContainer}>
-            <LinearGradient
-                        colors={['#334173', '#5B144C']}
-                        style={styles.linearGradient}
-                        start={{ x: 0, y: 0 }}
-                        end={{ x: 1, y: 0 }}
-                    />
+                <LinearGradient
+                    colors={['#334173', '#5B144C']}
+                    style={styles.linearGradient}
+                    start={{ x: 0, y: 0 }}
+                    end={{ x: 1, y: 0 }}
+                />
                 <View style={styles.bottomControls}>
                     <TouchableOpacity onPress={() => { }}>
                         <Icon name="home-outline" size={25} color="#4FA5D2" />
@@ -122,6 +113,35 @@ const styles = StyleSheet.create({
         flex: 1,
         backgroundColor: '#0F1622',
     },
+    flatListContentContainer: {
+        justifyContent: 'center',
+        alignItems: 'center',
+        flexGrow: 1,
+
+    },
+    albumContainer: {
+        alignItems: 'center',
+    },
+    albumCover: {
+        width: width,
+        height: width,
+        marginTop: 20,
+        alignItems: 'center',
+        borderRadius: 40,
+    },
+    albumTitle: {
+        marginTop: 10,
+        fontSize: 25,
+        color: '#8629D0',
+        fontWeight: 'bold',
+        textAlign: 'center',
+    },
+    albumItemCount: {
+        marginTop: 1,
+        fontSize: 18,
+        color: '#888',
+        textAlign: 'center',
+    },
     bannerArea: {
         width: '100%',
         height: 100,
@@ -136,6 +156,23 @@ const styles = StyleSheet.create({
     logoImg: {
         width: 185 / 1.2,
         height: 72 / 1.2,
+    },
+    currentContainer: {
+        marginLeft: 1,
+        marginTop: 'auto',
+        marginBottom: 'auto',
+    },
+    currentText: {
+
+        fontSize: 14,
+        fontWeight: '400',
+        color: '#fff',
+        marginTop: 'auto',
+        marginBottom: 'auto',
+    },
+    currentImg: {
+        width: 100 / 1.2,
+        height: 100 / 1.2,
     },
     linearGradient: {
         position: 'absolute',
@@ -160,61 +197,19 @@ const styles = StyleSheet.create({
     bottomControls: {
         flexDirection: 'row', justifyContent: 'space-between', width: '80%'
     },
-    artworkWrapper: {
-        width: 350,
-        height: 350,
-        marginBottom: 0,
 
-    },
-    artworkImage: {
-        width: '100%',
-        height: '100%',
-        borderRadius: 35,
-    },
-
-    // progressContainer: {
-    //     width: 330,
-    //     height: 40,
-    //     marginTop: 25,
-    //     flexDirection: 'row',
-    // },
-    // progressLabelContainer: {
-    //     width: 340,
-    //     flexDirection: 'row',
-    //     justifyContent: 'space-between',
-    // },
-    // progressLabelTxt: {
-    //     color: '#fff'
-    // },
-    infotextContainer: {
-marginBottom: 50,
-marginTop:0,
-    },
-    soundTitle: {
-        fontSize: 22,
-        fontWeight: 'bold',
-        textAlign: 'center',
-        color: '#8628D0',
-        marginTop:0,
-    },
-    soundCategories: {
-        fontSize: 18,
-        fontWeight: '400',
-        textAlign: 'center',
-        color: '#4894BE',
-    },
     playerContainer: {
         width: width,
         alignItems: 'center',
         paddingVertical: 15,
-        marginRight:50,
-        marginBottom:20,
+        marginRight: 50,
+        marginBottom: 20,
         borderBottomRightRadius: 100,
         borderTopRightRadius: 100,
         overflow: 'hidden',
         marginLeft: 0,
     },
-      playerControls: {
+    playerControls: {
         flexDirection: 'row-reverse', justifyContent: 'space-between', width: '80%'
-      }
+    }
 });
