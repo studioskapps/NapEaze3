@@ -1,15 +1,27 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import { View, Image } from 'react-native';
+
+import LinearGradient from 'react-native-linear-gradient';
+
 import { styles } from './styles';
 
-const Navbar = () => {
+const NavBar = () => {
   return (
-    <View style={styles.container}>
-      <Text style={styles.logo}>Your Logo Here</Text>
-      <View style={styles.menuDots}></View>
+    <View style={styles.bannerArea}>
+      <LinearGradient
+        colors={['#334173', '#5B144C']}
+        style={styles.linearGradient}
+        start={{ x: 0, y: 0 }}
+        end={{ x: 1, y: 0 }}
+      />
+      <View style={styles.logoContainer}>
+        <Image
+          style={styles.logoImg}
+          source={require('../../assets/img/logo.png')}
+        />
+      </View>
     </View>
-
   );
 };
 
-export default Navbar;
+export default NavBar;
