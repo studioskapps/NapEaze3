@@ -1,6 +1,7 @@
 import { StyleSheet } from 'react-native';
 
 export const styles = StyleSheet.create({
+
 logoContainer: {
     marginLeft: 20,
     marginTop: 'auto',
