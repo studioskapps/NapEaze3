@@ -24,9 +24,11 @@ export const styles = StyleSheet.create({
         alignItems: 'center',
     },
     albumCover: {
-        width: width,
-        height: width,
-        marginTop: 20,
+        width: width - 60,
+        height: width - 60,
+        marginTop: 60,
+        marginLeft: 30,
+        marginRight: 30,
         alignItems: 'center',
         borderRadius: 40,
     },
@@ -43,4 +45,58 @@ export const styles = StyleSheet.create({
         color: '#888',
         textAlign: 'center',
     },
+    songListContainer: {
+        backgroundColor: 'rgba(167, 167, 167, 0.8)',
+        padding: 10,
+        borderRadius: 10,
+        marginBottom: 10,
+        marginTop: 20,
+        width: width - 60, 
+        marginLeft: 30,
+        marginRight: 30,
+      },
+      songListTitle: {
+        color: '#8629D0',
+        fontSize: 30,
+        fontWeight: 'bold',
+        marginBottom: 10,
+      },
+      songListItemTitle: {
+        color: '#FFFFFF',
+        fontSize: 20,
+        marginBottom: 10,
+      },
+      flatListContentContainer: {
+        alignItems: 'flex-start',
+        justifyContent: 'flex-start',
+        width: width,
+      },
+      backButtonContainer: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        paddingLeft: 10,
+      },
+      backButtonContent: {
+        flexDirection: 'row',
+        alignItems: 'center',
+      },
+
+      navigationContainer: {
+        flexDirection: 'row',
+        justifyContent:'flex-end',
+        height: 40,
+        marginTop: 10,
+        alignItems: 'center',
+      },
+      backButtonContainer: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        marginRight: 10,
+      },
+      backButtonText: {
+        color: '#8629D0',
+        fontSize: 18,
+        fontWeight: 'bold',
+        marginLeft: 5,
+      },
 });

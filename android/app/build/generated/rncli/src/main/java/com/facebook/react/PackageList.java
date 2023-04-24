@@ -15,6 +15,12 @@ import java.util.ArrayList;
 import com.reactnativecommunity.slider.ReactSliderPackage;
 // react-native-linear-gradient
 import com.BV.LinearGradient.LinearGradientPackage;
+// react-native-safe-area-context
+import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
+// react-native-screens
+import com.swmansion.rnscreens.RNScreensPackage;
+// react-native-sound
+import com.zmxv.RNSound.RNSoundPackage;
 // react-native-track-player
 import com.doublesymmetry.trackplayer.TrackPlayer;
 // react-native-vector-icons
@@ -66,6 +72,9 @@ public class PackageList {
       new MainReactPackage(mConfig),
       new ReactSliderPackage(),
       new LinearGradientPackage(),
+      new SafeAreaContextPackage(),
+      new RNScreensPackage(),
+      new RNSoundPackage(),
       new TrackPlayer(),
       new VectorIconsPackage()
     ));

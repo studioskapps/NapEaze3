@@ -1,21 +1,17 @@
 import React from 'react';
 import { View, StyleSheet, StatusBar } from 'react-native';
-import {NavigationContainer} from '@react-navigation/native';
 import NavBar from './src/components/NavBar';
 import Player from './src/components/Player';
 import CategoryContainer from './src/components/CategoryContainer/index'
 import BottomNavigation from './src/components/BottomNavigation';
 
+
 const App = () => {
   return (
     <View style={styles.container}>
-      <StatusBar backgroundColor="#FFF" barStyle="dark-content" />
+      <StatusBar backgroundColor="#2c2a33" barStyle="light-content" />
       <NavBar />
-      <NavigationContainer>
-
       <CategoryContainer/>
-    </NavigationContainer>
-
       <Player />
       <BottomNavigation/>
     </View>
