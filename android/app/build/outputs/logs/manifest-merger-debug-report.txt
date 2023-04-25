@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-25:12
-INJECTED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-25:12
-INJECTED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-25:12
-INJECTED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-25:12
-MERGED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-25:12
+ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-29:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\d3cca00246c663d3c66c0792858497b5\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\d583b133a68ceecad4ecdddb740e6639\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:8:1-18:12
@@ -104,17 +104,17 @@ INJECTED from C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:
 INJECTED from C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:2:1-13:12
 	package
 		INJECTED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-29:12
 		INJECTED from C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-29:12
 		INJECTED from C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:1-29:12
 		INJECTED from C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:1:11-69
@@ -125,9 +125,9 @@ MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\New Dawn\.gradle\cac
 	android:name
 		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:3:22-64
 application
-ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-24:19
-MERGED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-24:19
-MERGED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-24:19
 MERGED from [:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-24:19
 MERGED from [com.facebook.react:react-android:0.71.6] C:\Users\New Dawn\.gradle\caches\transforms-3\e130ab6804e166a1486f733ffc21e975\transformed\jetified-react-android-0.71.6-debug\AndroidManifest.xml:9:5-20
@@ -202,6 +202,14 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:21:13-73
 	android:name
 		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:21:23-70
+service#com.guichaguri.trackplayer.service.MusicService
+ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:24:7-27:34
+	android:enabled
+		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:27:9-31
+	android:exported
+		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:25:9-71
 uses-sdk
 INJECTED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml

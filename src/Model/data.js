@@ -9,6 +9,7 @@ const categories = [
                 title: "City Street Ambience",
                 duration: "2:45",
                 file: require("../assets/sounds/car.mp3"),
+                art: require("../assets/artwork/urban.jpg"),
                 id: "1.1",
             },
             {

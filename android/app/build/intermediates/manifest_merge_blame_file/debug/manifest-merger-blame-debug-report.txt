@@ -53,7 +53,7 @@
 29-->[androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 30
 31    <application
-31-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-24:19
+31-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-28:19
 32        android:name="com.napeaze3.MainApplication"
 32-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:6:7-38
 33        android:allowBackup="false"
@@ -101,90 +101,99 @@
 54-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:21:13-73
 54-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:21:23-70
 55            </intent-filter>
-56        </activity> <!-- The main service, handles playback, playlists and media buttons -->
-57        <service
-57-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:19
-58            android:name="com.doublesymmetry.trackplayer.service.MusicService"
-58-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-79
-59            android:enabled="true"
-59-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-35
-60            android:exported="true"
-60-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-36
-61            android:foregroundServiceType="mediaPlayback" >
-61-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-58
-62            <intent-filter>
-62-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:29
-63                <action android:name="android.intent.action.MEDIA_BUTTON" />
-63-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-77
-63-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-74
-64            </intent-filter>
-65        </service>
-66
-67        <provider
-67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-68            android:name="androidx.startup.InitializationProvider"
-68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-69            android:authorities="com.napeaze3.androidx-startup"
-69-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-70            android:exported="false" >
-70-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-71            <meta-data
-71-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-72                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-73                android:value="androidx.startup" />
-73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-74            <meta-data
-74-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
-75                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-75-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
-76                android:value="androidx.startup" />
-76-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
-77            <meta-data
-77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-78                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-78-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-79                android:value="androidx.startup" />
-79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-80        </provider>
-81
-82        <receiver
-82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-83            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-84            android:directBootAware="false"
-84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
-85            android:enabled="true"
-85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-86            android:exported="true"
-86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-87            android:permission="android.permission.DUMP" >
-87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
-88            <intent-filter>
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-89                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-90            </intent-filter>
-91            <intent-filter>
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-92                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
-93            </intent-filter>
-94            <intent-filter>
-94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-95                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
-96            </intent-filter>
-97            <intent-filter>
-97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-98                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
-99            </intent-filter>
-100        </receiver>
-101    </application>
-102
-103</manifest>
+56        </activity>
+57
+58        <service
+58-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:24:7-27:34
+59            android:name="com.guichaguri.trackplayer.service.MusicService"
+59-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:25:9-71
+60            android:enabled="true"
+60-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:27:9-31
+61            android:exported="false" /> <!-- The main service, handles playback, playlists and media buttons -->
+61-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:26:9-33
+62        <service
+62-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:19
+63            android:name="com.doublesymmetry.trackplayer.service.MusicService"
+63-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-79
+64            android:enabled="true"
+64-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-35
+65            android:exported="true"
+65-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-36
+66            android:foregroundServiceType="mediaPlayback" >
+66-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-58
+67            <intent-filter>
+67-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:29
+68                <action android:name="android.intent.action.MEDIA_BUTTON" />
+68-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-77
+68-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-74
+69            </intent-filter>
+70        </service>
+71
+72        <provider
+72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+73            android:name="androidx.startup.InitializationProvider"
+73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+74            android:authorities="com.napeaze3.androidx-startup"
+74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+75            android:exported="false" >
+75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+76            <meta-data
+76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+77                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+77-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+78                android:value="androidx.startup" />
+78-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+79            <meta-data
+79-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+80-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+81                android:value="androidx.startup" />
+81-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+82            <meta-data
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+83                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+84                android:value="androidx.startup" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+85        </provider>
+86
+87        <receiver
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+88            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+89            android:directBootAware="false"
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+90            android:enabled="true"
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+91            android:exported="true"
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+92            android:permission="android.permission.DUMP" >
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+93            <intent-filter>
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+94                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+95            </intent-filter>
+96            <intent-filter>
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+97                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+98            </intent-filter>
+99            <intent-filter>
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+100                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+101            </intent-filter>
+102            <intent-filter>
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+103                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+104            </intent-filter>
+105        </receiver>
+106    </application>
+107
+108</manifest>

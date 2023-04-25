@@ -53,7 +53,12 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity> <!-- The main service, handles playback, playlists and media buttons -->
+        </activity>
+
+        <service
+            android:name="com.guichaguri.trackplayer.service.MusicService"
+            android:enabled="true"
+            android:exported="false" /> <!-- The main service, handles playback, playlists and media buttons -->
         <service
             android:name="com.doublesymmetry.trackplayer.service.MusicService"
             android:enabled="true"
