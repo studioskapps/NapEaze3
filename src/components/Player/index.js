@@ -8,19 +8,24 @@ import { styles } from './styles';
 const Player = () => {
   const [isPlayerReady, setIsPlayerReady] = useState(false);
   const [isPlaying, setIsPlaying] = useState(false);
-  const [sound, setSound] = useState(null); // define sound in the state
+  const [sound, setSound] = useState(null);
+  const [currentAudioIndex, setCurrentAudioIndex] = useState(0);
 
-  const togglePlayback = (isPlaying) => { // remove sound from the arguments
+  const togglePlayback = (isPlaying) => {
     if (isPlaying) {
       sound.pause();
     } else {
-      sound.play();
+      sound.play((success) => {
+        if (success) {
+          setCurrentAudioIndex((currentAudioIndex + 1) % categories[0].content.length);
+        }
+      });
     }
     setIsPlaying(!isPlaying);
   };
+  
 
   useEffect(() => {
-    // Load the audio file
     const audio = new Sound(categories[0].content[0].file, Sound.MAIN_BUNDLE, (error) => {
       if (error) {
         console.log('Error loading audio file: ', error);
@@ -30,9 +35,8 @@ const Player = () => {
       setIsPlayerReady(true);
     });
 
-    setSound(audio); // set the audio to the state
+    setSound(audio);
 
-    // Release the audio file when the component unmounts
     return () => {
       audio.release();
     };
@@ -50,8 +54,10 @@ const Player = () => {
           />
           <View style={styles.playerControls}>
             <View style={styles.currentContainer}>
-            
-              <Text style={styles.currentText}>{categories[0].content[0].title}</Text>
+              <Image style={styles.currentImg} source={categories[0].content[currentAudioIndex].img} />
+              <Text style={styles.currentText}>Now playing:{'\n'}{categories[0].content[currentAudioIndex].title}</Text>
+
+
             </View>
             <TouchableOpacity onPress={() => togglePlayback(isPlaying)}>
               <Image

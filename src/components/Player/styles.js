@@ -15,14 +15,13 @@ export const styles = StyleSheet.create({
   currentText: {
     fontSize: 14,
     fontWeight: '400',
-    color: '#fff',
-    marginLeft: 10,
+    color: '#dddddd',
+    marginLeft: 4,
   },
-  art: {
-    width: 50,
-    height: 50,
+  currentImg: {
+    width: 80,
+    height: 80,
     borderRadius: 5,
-    marginLeft: 10,
   },
   linearGradient: {
     position: 'absolute',

@@ -6,16 +6,17 @@ const categories = [
         id: "1",
         content: [
             {
-                title: "City Street Ambience",
+                title: "City Street Ambiences",
                 duration: "2:45",
                 file: require("../assets/sounds/car.mp3"),
-                art: require("../assets/artwork/urban.jpg"),
+                img: require("../assets/artwork/nature.png"),
                 id: "1.1",
             },
             {
                 title: "Train Passing By",
                 duration: "1:58",
                 file: require("../assets/sounds/train.mp3"),
+                img: require("../assets/artwork/urban.jpg"),
                 id: "1.2",
             },
         ],

@@ -4,7 +4,7 @@
             "outputFile": "com.napeaze3.app-mergeDebugResources-3:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\New Dawn\\.gradle\\caches\\transforms-3\\e8b2f39ece7c43ac91d2821ddeba84ed\\transformed\\core-1.9.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "source": "C:\\Users\\New Dawn\\.gradle\\caches\\transforms-3\\08e1174eef2c209ea18090f1084adbcb\\transformed\\core-1.7.0\\res\\values-en-rXC\\values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

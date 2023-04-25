@@ -17,183 +17,88 @@
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 13-->[com.facebook.flipper:flipper:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
 13-->[com.facebook.flipper:flipper:0.125.0] C:\Users\New Dawn\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
-14    <uses-permission android:name="android.permission.WAKE_LOCK" />
-14-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-68
-14-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-65
-15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-15-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-77
-15-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-74
-16
-17    <queries>
-17-->[androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:24:5-28:15
-18        <package android:name="androidx.test.orchestrator" />
-18-->[androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:25:9-62
-18-->[androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:25:18-59
-19        <package android:name="androidx.test.services" />
-19-->[androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:26:9-58
-19-->[androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:26:18-55
-20        <package android:name="com.google.android.apps.common.testing.services" />
-20-->[androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:27:9-83
-20-->[androidx.test:runner:1.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\6ca88d1ee3a117527243cb2fe20187c9\transformed\runner-1.4.0\AndroidManifest.xml:27:18-80
-21    </queries>
-22
-23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-23-->[com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\f02486aae2dc1f94b7ab50f6915d1f9c\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
-23-->[com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\New Dawn\.gradle\caches\transforms-3\f02486aae2dc1f94b7ab50f6915d1f9c\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:22-76
-24
-25    <permission
-25-->[androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
-26        android:name="com.napeaze3.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-26-->[androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
-27        android:protectionLevel="signature" />
-27-->[androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
-28
-29    <uses-permission android:name="com.napeaze3.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-29-->[androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-29-->[androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
-30
-31    <application
-31-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-28:19
-32        android:name="com.napeaze3.MainApplication"
-32-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:6:7-38
-33        android:allowBackup="false"
-33-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:10:7-34
-34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-34-->[androidx.core:core:1.9.0] C:\Users\New Dawn\.gradle\caches\transforms-3\e8b2f39ece7c43ac91d2821ddeba84ed\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
-35        android:debuggable="true"
-36        android:icon="@mipmap/ic_launcher"
-36-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:8:7-41
-37        android:label="@string/app_name"
-37-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:7:7-39
-38        android:roundIcon="@mipmap/ic_launcher_round"
-38-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:9:7-52
-39        android:theme="@style/AppTheme"
-39-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:11:7-38
-40        android:usesCleartextTraffic="true" >
-40-->C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:8:9-44
-41        <activity
-41-->C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:11:9-111
-42            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-42-->C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:11:19-83
-43            android:exported="false" />
-43-->C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:11:84-108
-44        <activity
-44-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:12:7-23:18
-45            android:name="com.napeaze3.MainActivity"
-45-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:13:9-37
-46            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-46-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:15:9-118
-47            android:exported="true"
-47-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:18:9-32
-48            android:label="@string/app_name"
-48-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:14:9-41
-49            android:launchMode="singleTask"
-49-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:16:9-40
-50            android:windowSoftInputMode="adjustResize" >
-50-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:17:9-51
-51            <intent-filter>
-51-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:19:9-22:25
-52                <action android:name="android.intent.action.MAIN" />
-52-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:20:13-65
-52-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:20:21-62
-53
-54                <category android:name="android.intent.category.LAUNCHER" />
-54-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:21:13-73
-54-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:21:23-70
-55            </intent-filter>
-56        </activity>
-57
-58        <service
-58-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:24:7-27:34
-59            android:name="com.guichaguri.trackplayer.service.MusicService"
-59-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:25:9-71
-60            android:enabled="true"
-60-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:27:9-31
-61            android:exported="false" /> <!-- The main service, handles playback, playlists and media buttons -->
-61-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:26:9-33
-62        <service
-62-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:19
-63            android:name="com.doublesymmetry.trackplayer.service.MusicService"
-63-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-79
-64            android:enabled="true"
-64-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-35
-65            android:exported="true"
-65-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-36
-66            android:foregroundServiceType="mediaPlayback" >
-66-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-58
-67            <intent-filter>
-67-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:29
-68                <action android:name="android.intent.action.MEDIA_BUTTON" />
-68-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-77
-68-->[:react-native-track-player] C:\ReactNative\NapEaze3\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-74
-69            </intent-filter>
-70        </service>
-71
-72        <provider
-72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-73            android:name="androidx.startup.InitializationProvider"
-73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-74            android:authorities="com.napeaze3.androidx-startup"
-74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-75            android:exported="false" >
-75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-76            <meta-data
-76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-77                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-77-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-78                android:value="androidx.startup" />
-78-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-79            <meta-data
-79-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
-80                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-80-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
-81                android:value="androidx.startup" />
-81-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\New Dawn\.gradle\caches\transforms-3\916dd3e54c0ebc19e31b2a5a7cdd7ff1\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
-82            <meta-data
-82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-83                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-84                android:value="androidx.startup" />
-84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-85        </provider>
-86
-87        <receiver
-87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-88            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-89            android:directBootAware="false"
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
-90            android:enabled="true"
-90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-91            android:exported="true"
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-92            android:permission="android.permission.DUMP" >
-92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
-93            <intent-filter>
-93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-94                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-95            </intent-filter>
-96            <intent-filter>
-96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-97                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
-98            </intent-filter>
-99            <intent-filter>
-99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-100                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
-101            </intent-filter>
-102            <intent-filter>
-102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-103                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\New Dawn\.gradle\caches\transforms-3\1dcb96d13df1f0a332c9b669326397f0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
-104            </intent-filter>
-105        </receiver>
-106    </application>
-107
-108</manifest>
+14
+15    <application
+15-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:5:5-28:19
+16        android:name="com.napeaze3.MainApplication"
+16-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:6:7-38
+17        android:allowBackup="false"
+17-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:10:7-34
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.7.0] C:\Users\New Dawn\.gradle\caches\transforms-3\08e1174eef2c209ea18090f1084adbcb\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:8:7-41
+21        android:label="@string/app_name"
+21-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:7:7-39
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:9:7-52
+23        android:theme="@style/AppTheme"
+23-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:11:7-38
+24        android:usesCleartextTraffic="true" >
+24-->C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:8:9-44
+25        <activity
+25-->C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:11:9-111
+26            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+26-->C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:11:19-83
+27            android:exported="false" />
+27-->C:\ReactNative\NapEaze3\android\app\src\debug\AndroidManifest.xml:11:84-108
+28        <activity
+28-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:12:7-23:18
+29            android:name="com.napeaze3.MainActivity"
+29-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:13:9-37
+30            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+30-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:15:9-118
+31            android:exported="true"
+31-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:18:9-32
+32            android:label="@string/app_name"
+32-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:14:9-41
+33            android:launchMode="singleTask"
+33-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:16:9-40
+34            android:windowSoftInputMode="adjustResize" >
+34-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:17:9-51
+35            <intent-filter>
+35-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:19:9-22:25
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:20:13-65
+36-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:20:21-62
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:21:13-73
+38-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:21:23-70
+39            </intent-filter>
+40        </activity>
+41
+42        <service
+42-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:24:7-27:34
+43            android:name="com.guichaguri.trackplayer.service.MusicService"
+43-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:25:9-71
+44            android:enabled="true"
+44-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:27:9-31
+45            android:exported="false" />
+45-->C:\ReactNative\NapEaze3\android\app\src\main\AndroidManifest.xml:26:9-33
+46
+47        <provider
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+48            android:name="androidx.startup.InitializationProvider"
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+49            android:authorities="com.napeaze3.androidx-startup"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+50            android:exported="false" >
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+51            <meta-data
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+53                android:value="androidx.startup" />
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\New Dawn\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+54            <meta-data
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+56                android:value="androidx.startup" />
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\New Dawn\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+57        </provider>
+58    </application>
+59
+60</manifest>
