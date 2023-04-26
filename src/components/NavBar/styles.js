@@ -14,7 +14,7 @@ logoImg: {
 bannerArea: {
     backgroundColor: '#0F1622',
     width: '100%',
-    height: 100,
+    height: 80,
     borderBottomLeftRadius: 50,
     overflow: 'hidden',
  

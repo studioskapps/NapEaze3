@@ -8,7 +8,7 @@ export const styles = StyleSheet.create({
   currentContainer: {
     flexDirection: 'row',
     alignItems: 'center',
-    marginLeft: 10,
+    marginLeft: 2,
     marginTop: 'auto',
     marginBottom: 'auto',
   },
@@ -30,22 +30,10 @@ export const styles = StyleSheet.create({
     top: 0,
     bottom: 0,
   },
-  bottomContainer: {
-    borderTopColor: '#393E46',
-    borderTopWidth: 1,
-    width: width,
-    alignItems: 'center',
-    paddingVertical: 5,
-  },
-  bottomControls: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    width: '80%',
-  },
   playerContainer: {
-    width: width-30,
+    width: width-20,
     alignItems: 'center',
-    paddingVertical: 15,
+    paddingVertical: 7,
     marginRight: 50,
     marginBottom: 20,
     borderBottomRightRadius: 100,
@@ -56,6 +44,6 @@ export const styles = StyleSheet.create({
   playerControls: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    width: '90%',
+    width: '97%',
   },
 });

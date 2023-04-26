@@ -81,17 +81,22 @@ const CategoryContainer = () => {
             contentContainerStyle={styles.flatListContentContainer}
           />
         ) : (
-          <ScrollView horizontal pagingEnabled>
-            {categories.map((item) => (
-              <TouchableOpacity key={item.id} onPress={() => handleAlbumPress(item)}>
-                <View style={styles.albumContainer}>
-                  <Image source={item.image} style={styles.albumCover} />
-                  <Text style={styles.albumTitle}>{item.title}</Text>
-                  <Text style={styles.albumItemCount}>{`${item.itemcount} songs`}</Text>
-                </View>
-              </TouchableOpacity>
-            ))}
-          </ScrollView>
+<ScrollView 
+  horizontal 
+  pagingEnabled 
+>
+  {categories.map((item) => (
+    <TouchableOpacity key={item.id} onPress={() => handleAlbumPress(item)}>
+      <View style={styles.albumContainer}>
+        <Image source={item.image} style={styles.albumCover} />
+        <View style={styles.albumTitleContainer}>
+          <Text style={styles.albumTitle}>{item.title}</Text>
+        </View>
+      </View>
+    </TouchableOpacity>
+  ))}
+</ScrollView>
+
         )}
       </View>
     </SafeAreaView>
