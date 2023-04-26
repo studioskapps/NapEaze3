@@ -3,37 +3,36 @@ const { width, height } = Dimensions.get('window');
 
 export const styles = StyleSheet.create({
     container: {
-
         flex: 1,
         backgroundColor: '#0F1622',
+        marginVertical: 0,
     },
-    mainContainer: {
-        flex: 1,
-        alignItems: 'center',
-        justifyContent: 'center',
-        
-    },
-  
-    flatListContentContainer: {
-        justifyContent: 'center',
-        alignItems: 'center',
-        flexGrow: 1,
+    // mainContainer: {
+    //     flex: 1,
+    //     alignItems: 'center',
+    //     justifyContent: 'center',
+    // },
+    // flatListContentContainer: {
+    //     justifyContent: 'center',
+    //     alignItems: 'center',
+    //     flexGrow: 1,
+    // },
 
-    },
-    albumContainer: {
-        alignItems: 'center',
-    },
     albumCover: {
-        width: width - 60,
-        height: width - 60,
-        marginTop: 60,
-        marginLeft: 30,
-        marginRight: 30,
+        // width: width - 80,
+        // height: width - 80,
+        // marginTop: 10,
+        // marginLeft: 40,
+        // marginRight: 40,
+        // alignItems: 'center',
+        // borderRadius: 40,
+        width: width,
+        height: width,
+        marginTop: 10,
         alignItems: 'center',
-        borderRadius: 40,
     },
     albumTitle: {
-        marginTop: 10,
+        marginTop: 0,
         fontSize: 25,
         color: '#8629D0',
         fontWeight: 'bold',

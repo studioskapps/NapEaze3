@@ -4,7 +4,7 @@
             "outputFile": "com.napeaze3.app-mergeDebugResources-3:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\New Dawn\\.gradle\\caches\\transforms-3\\4af7f0d23266db3f5bdb15fc939a61bd\\transformed\\material-1.1.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\No\\.gradle\\caches\\transforms-3\\4af7f0d23266db3f5bdb15fc939a61bd\\transformed\\material-1.1.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

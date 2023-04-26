@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { SafeAreaView, View, Text, TouchableOpacity, Image } from 'react-native';
 import Sound from 'react-native-sound';
-import categories from '../../model/data';
+import categories from '../../Model/data';
 import LinearGradient from 'react-native-linear-gradient';
 import { styles } from './styles';
 

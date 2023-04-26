@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, Image, FlatList, SafeAreaView, ScrollView } from 'react-native';
-import categories from '../../model/data';
+import categories from '../../Model/data';
 import Icon from 'react-native-vector-icons/Ionicons';
 
 import { styles } from './styles';
@@ -86,8 +86,8 @@ const CategoryContainer = () => {
               <TouchableOpacity key={item.id} onPress={() => handleAlbumPress(item)}>
                 <View style={styles.albumContainer}>
                   <Image source={item.image} style={styles.albumCover} />
-                  <Text style={styles.albumTitle}>{item.title}</Text>
-                  <Text style={styles.albumItemCount}>{`${item.itemcount} songs`}</Text>
+                  {/* <Text style={styles.albumTitle}>{item.title}</Text>
+                  <Text style={styles.albumItemCount}>{`${item.itemcount} songs`}</Text> */}
                 </View>
               </TouchableOpacity>
             ))}
