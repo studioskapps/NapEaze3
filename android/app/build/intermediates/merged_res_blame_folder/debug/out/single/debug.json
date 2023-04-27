@@ -1,46 +1,74 @@
 [
     {
-        "merged": "com.napeaze3.app-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.napeaze3.app-main-7:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-merged_res-5:\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-main-7:\\drawable\\rn_edit_text_material.xml"
     },
     {
-        "merged": "com.napeaze3.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.napeaze3.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-main-7:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.napeaze3.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.napeaze3.app-main-7:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "com.napeaze3.app-merged_res-5:/raw_train.mp3.flat",
+        "source": "com.napeaze3.app-main-7:/raw/train.mp3"
     },
     {
-        "merged": "com.napeaze3.app-merged_res-5:/drawable_rn_edit_text_material.xml.flat",
-        "source": "com.napeaze3.app-main-7:/drawable/rn_edit_text_material.xml"
+        "merged": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-main-7:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.napeaze3.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.napeaze3.app-main-7:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.napeaze3.app-merged_res-5:/raw_hair_dryer.mp3.flat",
+        "source": "com.napeaze3.app-main-7:/raw/hair_dryer.mp3"
     },
     {
-        "merged": "com.napeaze3.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.napeaze3.app-main-7:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "com.napeaze3.app-merged_res-5:/raw_wind.mp3.flat",
+        "source": "com.napeaze3.app-main-7:/raw/wind.mp3"
     },
     {
-        "merged": "com.napeaze3.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.napeaze3.app-main-7:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.napeaze3.app-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.napeaze3.app-main-7:/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-main-7:\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.napeaze3.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.napeaze3.app-main-7:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.napeaze3.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.napeaze3.app-main-7:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.napeaze3.app-merged_res-5:/raw_white_noise.wav.flat",
+        "source": "com.napeaze3.app-main-7:/raw/white_noise.wav"
     },
     {
-        "merged": "com.napeaze3.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.napeaze3.app-main-7:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.napeaze3.app-merged_res-5:/raw_ocean_waves.mp3.flat",
+        "source": "com.napeaze3.app-main-7:/raw/ocean_waves.mp3"
+    },
+    {
+        "merged": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.napeaze3.app-merged_res-5:/raw_thunderstorm.mp3.flat",
+        "source": "com.napeaze3.app-main-7:/raw/thunderstorm.mp3"
+    },
+    {
+        "merged": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-merged_res-5:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-main-7:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-main-7:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-merged_res-5:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\New Dawn\\.gradle\\daemon\\7.5.1\\com.napeaze3.app-main-7:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.napeaze3.app-merged_res-5:/raw_car.mp3.flat",
+        "source": "com.napeaze3.app-main-7:/raw/car.mp3"
     }
 ]
